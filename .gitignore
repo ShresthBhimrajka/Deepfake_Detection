@@ -6,3 +6,7 @@ deepfake-detection-model.hdf5
 weights
 checkpoints
 .ipynb_checkpoints
+1frame
+140k
+1framedfd
+models
